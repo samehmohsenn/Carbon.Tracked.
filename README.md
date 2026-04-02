@@ -1,6 +1,6 @@
-### Carbon. Tracked. Created with ReactJS, Vite, ExpressJS and a mongoDB database.
-
 Carbon. Tracked. is a MERN stack project centered around enterprises' concern towards achieving a lower carbon footprint, while still continuing to provide the essence of their business.
+
+Made with ReactJS, Vite, ExpressJS and a mongoDB database.
 
 This project includes all of the functionality needed to provide all the operations needed by the web app, read this document to prepare to run this locally.
 
